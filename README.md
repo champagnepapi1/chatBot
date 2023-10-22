@@ -1,8 +1,8 @@
-chatBot: A Simple Python Chatbot
-Description
+# chatBot: A Simple Python Chatbot
+# Description
 chatBot is a simple chatbot project implemented in Python. It utilizes the ChatterBot library for the core chat functionalities and includes a cleaner utility for preprocessing chat data. The chat data is expected to be provided in a chat.txt file.
 
-How to Run the Chatbot
+## How to Run the Chatbot
 To run the chatbot, simply execute the following command:
 
 bash
