@@ -44,6 +44,7 @@ Run the bot:
 bash
 Copy code
 python3 bot.py
-Author
-Your Name Here
+
+## Author
+Geremy
 
